@@ -11,7 +11,7 @@
 
   <h3 align="center">Freelancer Bijoy</h3>
 
-<a href="https://freelancerbijoy.xyz">My Website</a>
+<a align="center" href="https://freelancerbijoy.xyz">My Website</a>
 <!-- CONTACT -->
 
 ## Contact
